@@ -1,0 +1,6 @@
+{
+  "name": "이음공무 (탕정면)",
+  "description": "충청남도 아산시 탕정면 행정복지센터 찾아가는 보건복지팀 정기·수시 인사발령 스마트 인수인계 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
